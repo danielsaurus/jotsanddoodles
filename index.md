@@ -2,13 +2,15 @@ Reference
 =====
 template: reference
 
-* [Workflows](./workflows)
+This is an ever evolving repository of reference materials used in my writing on [hackmake.org](http://hackmake.org). It generally consists of list-based  and outline-style notes. This section uses [`markdown.css`](https://github.com/mrcoles/markdown-css) to display the notes in a familiar way but you can also access the raw markdown for each note with the link above. The entirety of reference materials are accessible on [Github](https://github.com/nickwynja/hackmake-reference) and intended for download and collaboration.
+
+## Table of Contents ##
+
 * [GTD](./gtd)
+  * [GTD Outline](./gtd/gtd-outline)
+* [Learning Materials](./materials)
+  * [Books](./materials/#books)
+  * [Blogs](./materials/#blogs)
+  * [Podcasts](./materials/#podcasts)
 
-Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis.
-
-1. This is
-2. An ordered
-3. list
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec id elit non mi porta gravida at eget metus.
+This reference section is inspired by Sean Korzdorfer's [Open Notebook](http://www.seankorzdorfer.com/open_notebook/) project.

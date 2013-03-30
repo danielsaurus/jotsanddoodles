@@ -2,6 +2,8 @@ GTD Outline
 =====
 template: reference
 
+This is a general outline of David Allen's [Getting Things Done](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280) as originally collected by [MVance](http://www.minezone.org/wiki/MVance/GettingThingsDone).
+
 # Notes from Getting Things Done by David Allen #
 
   1. Capture all the things that need to get done into a logical and trusted system outside of your head and off your mind
@@ -24,30 +26,31 @@ template: reference
 
     1. Get it all out of your head
     2. Minimize your collection buckets
-      * Physical in-basket
-      * Writing paper and pads
-      * Electronic note taking
-      * Auditory capture (answering machines, voicemail, dictating equipment)
-      * Email
+        * Physical in-basket
+        * Writing paper and pads
+        * Electronic note taking
+        * Auditory capture (answering machines, voicemail, dictating equipment)
+        * Email
     3. Empty the buckets regularly
 
   2. Process what they mean and what to do about them
 
     1. What is it?
     2. Is it actionable? YES or NO
-  
+
     **NO**
-  
-      1. Trash
-      2. Incubate
-        1. Someday/maybe list
-        2. Tickler file (suspended or follow-on file; a 3D calendar)
-          * 43 folders:
-            * 31 Daily Files
-            * 12 Monthly Files
-            * Tomorrow's Date at the front
+
+    1. Trash
+    2. Incubate
+      1. Someday/maybe list
+      2. Tickler file (suspended or follow-on file; a 3D calendar)
+        * 43 folders:
+          * 31 Daily Files
+          * 12 Monthly Files
+          * Tomorrow's Date at the front
+
     **Yes**    
-  
+
       1. What is the next action?
         * Do it
         * Delegate it
@@ -57,21 +60,21 @@ template: reference
         1. List of Projects
         2. Storage or files for project plans and materials
         3. Calendar
-          * Time specific actions [appointments], day specific actions, day specific information
+            * Time specific actions [appointments], day specific actions, day specific information
         4. List of reminders of next actions
         5. A list of reminders of things you're waiting for
-          * Only review as often as they have to be in order to stop wondering about them
+            * Only review as often as they have to be in order to stop wondering about them
       3. Reference
-        * Reference should be information that can be easily referred to when needed
+          * Reference should be information that can be easily referred to when needed
   
-    3. Organize the results
-    4. Review the options
-    5. Do
-      1. Choosing actions in the moment
-      2. Context
-      3. Time available
-      4. Energy available
-      5. Priority
+  3. Organize the results
+  4. Review the options
+  5. Do
+    1. Choosing actions in the moment
+    2. Context
+    3. Time available
+    4. Energy available
+    5. Priority
 
 # Weekly Review #
 
@@ -138,6 +141,7 @@ Vertical Focus: informal back of the envelope planning
 # Critical Factor of Filing System #
 
 Filing has to be instantaneous and easy:
+
   * One Alpha System
     * Consider A-Z organizing unless you need more specific filing
     * Reduces number of place something _isn't_
