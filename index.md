@@ -6,11 +6,20 @@ This is an ever evolving repository of reference materials used in my writing on
 
 ## Table of Contents ##
 
-* [GTD](./gtd)
+1. **GTD**
   * [GTD Outline](./gtd/gtd-outline)
-* [Learning Materials](./materials)
+  * [GTD Trigger List](./gtd/gtd-trigger-list)
+1. **Gear** (In Progress) 
+1. **Learning Materials**
   * [Books](./materials/#books)
   * [Blogs](./materials/#blogs)
   * [Podcasts](./materials/#podcasts)
+1. **Meta**
+  * [Pending Post Ideas](./meta/pending-post-ideas)
+1. **Workflows**
+  * [Notes](./workflows/notes)
+
+</br>
+***
 
 This reference section is inspired by Sean Korzdorfer's [Open Notebook](http://www.seankorzdorfer.com/open_notebook/) project.
