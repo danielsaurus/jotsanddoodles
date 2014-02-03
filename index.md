@@ -6,42 +6,47 @@ This is an ever evolving repository of reference materials used in my writing on
 
 I've found that life has been moving really quickly by me and I want to consistently be mindful of the ways I work and hope to use these reference materials as a tool to inspect and recall. It's basically my personal wiki.
 
-## Sections ##
 
-### [Scaffolding](/2013/05/scaffolding) ###
+## Scaffolding ##
+
+>"Scaffolding, like in construction, is a superstructure that gives a stable frame to get work done. It’s modular and the pieces are lightweight but when set up properly, create an incredibly stable system that’s adaptable, scaleable, and appropriate for the work that needs to happen." --From [Scaffolding](http://hackmake.org/2013/05/scaffolding), May 05, 2013
 
   * Workflows
-      * [Writing](/2012/11/writing-tools-workflow)
-      * [Notes](./workflows/notes)
+      * [Writing](http://hackmake.org/2012/11/writing-tools-workflow)
+      * [Notes](http://hackmake.org/reference/workflows/notes)
   * Systems
-      * [Asset Security](./systems/security)
-      * [Backups](./systems/backup)
-      * [Finances](./systems/finances)
+      * [Asset Security](http://hackmake.org/reference/systems/security)
+      * [Backups](http://hackmake.org/reference/systems/backup)
+      * [Finances](http://hackmake.org/reference/systems/finances)
   *  Software
-      * [iPhone](./software/iphone)
-      * [Mac](./software/mac)
+      * [Scripts and Hacks](http://hackmake.org/reference/software/scripts)
+      * [iPhone](http://hackmake.org/reference/software/iphone)
+      * [Mac](http://hackmake.org/reference/software/mac)
 
-### [Gear](./gear) ###
+## Gear ##
 
-  * [Philosophy](./gear/#philosophy)
-  * [Daily Carry](./gear/#edc)
-  * [Bags](./gear/#bags)
+It helps me get through life.
+
+  * [My Philosophy on Gear](http://hackmake.org/reference/gear/#philosophy)
+  * [Daily Carry](http://hackmake.org/reference/gear/#edc)
+  * [Bags](http://hackmake.org/reference/gear/#bags)
   * Packing
+  * Hardware
 
-### GTD Resources ###
+## GTD Resources ##
 
-  * [GTD Outline](./gtd/gtd-outline)
-  * [GTD Trigger List](./gtd/gtd-trigger-list)
+  * [GTD Outline](http://hackmake.org/reference/gtd/gtd-outline)
+  * [GTD Trigger List](http://hackmake.org/reference/gtd/gtd-trigger-list)
 
-### Learning Materials ###
+## Learning Materials ##
 
-  * [Books](./materials/#books)
-  * [Blogs](./materials/#blogs)
-  * [Podcasts](./materials/#podcasts)
+  * [Books](http://hackmake.org/reference/materials/#books)
+  * [Blogs](http://hackmake.org/reference/materials/#blogs)
+  * [Podcasts](http://hackmake.org/reference/materials/#podcasts)
 
-### Meta ###
+## Meta ##
 
-  * [Pending Post Ideas](./meta/pending-post-ideas)
+  * [Pending Post Ideas](http://hackmake.org/reference/meta/pending-post-ideas)
 
 </br>
 ***

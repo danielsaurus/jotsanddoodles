@@ -5,11 +5,11 @@ template: reference
 Sections
 ========
 
-* [Philosophy](../gear/#philosophy)
-* [Daily Carry](../gear/#edc)
-* [Bags](../gear/#bags)
+* [My Philosophy on Gear](http://hackmake.org/reference/gear/#philosophy)
+* [Daily Carry](http://hackmake.org/reference/gear/#edc)
+* [Bags](http://hackmake.org/reference/gear/#bags)
 
-Philosophy {#philosophy}
+My Philosophy on Gear {#philosophy}
 ==================
 
 Gear should be trustworthy. As a tool, it needs to be able to get the job done whenever it needs to and not fail you. Great gear is worth the money.

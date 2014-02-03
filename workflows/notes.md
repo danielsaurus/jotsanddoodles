@@ -10,9 +10,9 @@ Date is optional. I went with the title first (many people use Merlin's `tags` s
 
 ## Scripts ##
 
-A Hazel script runs in the background and checks for any notes that don't have the ` -- ` separator convention. Assuming no separator means no tags so matching notes get appending to a "Notes to Tag — inboxx" note. Another script will check for changes on the contents of the note so I can quickly rename text files by changing the line of text in that note. [This last step is kind of broken at the moment. Need to fix that.]
+A Hazel script runs once a week and gets files that match the `Scratchpad_YY-MM-DD` convention and move them into a `/Scratchpads/YYYY/MM_Month/` directory to help clean the root folder clean. Scratchpads are only really relevant for the week anyway and then get archived.
 
-Another Hazel script runs once a week and moves files that match the `Scratchpad_YY-MM-DD` convention and move them into a `/Scratchpads/YYYY/MM_Month/` directory to help clean the root folder clean. Scratchpads are only really relevant for the week anyway and then get archived.
+![Hazel Scratchpad Archive](http://f.cl.ly/items/351y3b3i0g2L1H3r0n0V/Screen%20Shot%202014-02-03%20at%2013.32.29.png)
 
 ## Types of Things I Capture ##
 
