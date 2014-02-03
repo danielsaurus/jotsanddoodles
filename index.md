@@ -8,7 +8,8 @@ I've found that life has been moving really quickly by me and I want to consiste
 
 ## Sections ##
 
-1. [Scaffolding](/2013/05/scaffolding)
+### [Scaffolding](/2013/05/scaffolding) ###
+
   * Workflows
       * [Writing](/2012/11/writing-tools-workflow)
       * [Notes](./workflows/notes)
@@ -19,19 +20,27 @@ I've found that life has been moving really quickly by me and I want to consiste
   *  Software
       * [iPhone](./software/iphone)
       * [Mac](./software/mac)
-1. [Gear](./gear)
+
+### [Gear](./gear) ###
+
   * [Philosophy](./gear/#philosophy)
   * [Daily Carry](./gear/#edc)
   * [Bags](./gear/#bags)
   * Packing
-1. GTD Resources
+
+### GTD Resources ###
+
   * [GTD Outline](./gtd/gtd-outline)
   * [GTD Trigger List](./gtd/gtd-trigger-list)
-1. Learning Materials
+
+### Learning Materials ###
+
   * [Books](./materials/#books)
   * [Blogs](./materials/#blogs)
   * [Podcasts](./materials/#podcasts)
-1. Meta
+
+### Meta ###
+
   * [Pending Post Ideas](./meta/pending-post-ideas)
 
 </br>
