@@ -35,10 +35,6 @@ Daily Carry {#edc}
 * Wallet - [Saddleback Leather Small ID Wallet](http://saddlebackleather.com/Classic-Wallet-ID)
 * Knife - [Benchmade Mini-Griptilian](http://amazon.com/dp/B000NZRYS8)
 
-Changes
--------
-
-* [2013-11-02]: Swapped [Spyderco Tenacious](http://amazon.com/dp/B001EI7578) for Mini-Grip since Tenacious started to feel a little large, unwieldy, and inappropriate for a lot of the situations I was in. Mini-Grip recommendation from Uri at RedTeams.net
 
 Bags {#bags}
 ============
