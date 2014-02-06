@@ -6,6 +6,7 @@ This is an ever evolving repository of reference materials used in my writing on
 
 I've found that life has been moving really quickly by me and I want to consistently be mindful of the ways I work and hope to use these reference materials as a tool to inspect and recall. It's basically my personal wiki.
 
+***
 
 ## Scaffolding ##
 

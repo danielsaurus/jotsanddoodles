@@ -13,24 +13,18 @@ Template: reference
 * Embark NYC - Subway maps and schedule
 * Camera
 * Fantastical
-* Due
+* Weather
 * 1Password
 * Instacast
 * Paperback Web
 * Notesy
-* Weather
-* Whisper
-* Message
-* Mail
 * Twitterific
 * Riposte
+* Messages
+* Mail
 * Tools Folder
 * Apple Folder
 * Drafts
 * Launch Center Pro
 * OmniFocus
 * Safari
-
-## History
-
-* [July 2013](./iphone-2013-07)
