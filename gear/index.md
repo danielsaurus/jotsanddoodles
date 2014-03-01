@@ -27,7 +27,7 @@ Daily Carry {#edc}
 ==================
 
 ![Daily Carry Stack](http://f.cl.ly/items/2r3u2y0U1e2R322i0t22/daily-carry.jpg)
-![Daily Carry Knoll](http://f.cl.ly/items/0x0B1X1f3J1u2s1Z2C0Q/daily-carry-knoll.jpg)
+![Daily Carry Knoll](http://f.cl.ly/items/191u3b2i2A3V001e3p0w/daily-carry-knoll.jpg)
 
 * iPhone 5 - Black 32GB Verizon
 * Field Notes
