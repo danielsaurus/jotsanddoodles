@@ -30,7 +30,7 @@ Daily Carry {#edc}
 ![Daily Carry Knoll](http://f.cl.ly/items/191u3b2i2A3V001e3p0w/daily-carry-knoll.jpg)
 
 * iPhone 5 - Black 32GB Verizon
-* Field Notes
+* Pocket notebook - still experimenting between Field Notes and Doane grid+lines
 * [Zebra Sarasa 0.4, Black ](http://www.jetpens.com/Zebra-Sarasa-Push-Clip-Gel-Ink-Pen-0.4-mm-Black/pd/797)
 * Keys (two + fob on a small ring with a paracord/heat-shrink tube "pull")
 * [Saddleback Leather Small ID Wallet](http://saddlebackleather.com/Classic-Wallet-ID)
