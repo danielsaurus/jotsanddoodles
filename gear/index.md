@@ -26,14 +26,15 @@ Here are some other post written of the value of gear and tools:
 Daily Carry {#edc}
 ==================
 
-![Every Day Carry](http://f.cl.ly/items/3v221V1k0W0x0V0u1i2T/Cloud%20Nov%202,%202013,%2023-40-18.png.jpeg)
+![Daily Carry Stack](http://f.cl.ly/items/2r3u2y0U1e2R322i0t22/daily-carry.jpg)
+![Daily Carry Knoll](http://f.cl.ly/items/0x0B1X1f3J1u2s1Z2C0Q/daily-carry-knoll.jpg)
 
 * iPhone 5 - Black 32GB Verizon
 * Field Notes
-* Fisher Space Pen
+* [Zebra Sarasa 0.4, Black ](http://www.jetpens.com/Zebra-Sarasa-Push-Clip-Gel-Ink-Pen-0.4-mm-Black/pd/797)
 * Keys (two + fob on a small ring with a paracord/heat-shrink tube "pull")
-* Wallet - [Saddleback Leather Small ID Wallet](http://saddlebackleather.com/Classic-Wallet-ID)
-* Knife - [Benchmade Mini-Griptilian](http://amazon.com/dp/B000NZRYS8)
+* [Saddleback Leather Small ID Wallet](http://saddlebackleather.com/Classic-Wallet-ID)
+* [Benchmade Mini-Griptilian](http://amazon.com/dp/B000NZRYS8)
 
 
 Bags {#bags}
