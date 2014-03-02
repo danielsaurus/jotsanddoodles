@@ -24,15 +24,12 @@ I've found that life has been moving really quickly by me and I want to consiste
       * [iPhone](http://hackmake.org/reference/software/iphone)
       * [Mac](http://hackmake.org/reference/software/mac)
 
-## Gear ##
+## [Gear](http://hackmake.org/reference/gear/) ##
 
 It helps me get through life.
 
-  * [My Philosophy on Gear](http://hackmake.org/reference/gear/#philosophy)
-  * [Daily Carry](http://hackmake.org/reference/gear/#edc)
-  * [Bags](http://hackmake.org/reference/gear/#bags)
-  * Packing
-  * Hardware
+  * [My Philosophy on Gear](http://hackmake.org/reference/gear/)
+  * [Daily Carry](http://hackmake.org/reference/gear/daily-carry)
 
 ## GTD Resources ##
 
