@@ -60,6 +60,13 @@ I've written a full [review of the GR1][gr1] and a review of some [essential acc
 * [Widgy pry bar](http://www.countycomm.com/widgy.html)
 * Zip ties
 
+![GRID-IT Tech](http://cl.ly/image/1v360F2p150R/grid-it.jpg)
+
+* Monoprice external battery
+* Extra pens
+* Various cables and adapters
+
+
 [gr1-link]: http://goruck.go2cloud.org/aff_c?offer_id=16&aff_id=1138&url=http%3A%2F%2Fwww.goruck.com%2Fen%2Fgr1%3Futm_content%3D{offer_name}%26utm_campaign%3D{affiliate_id}{affiliate_name}
 [gr1]: http://hackmake.org/2012/01/goruck-gr1-review
 [gr-acc]: http://hackmake.org/2012/01/goruck-gr1-accessories
