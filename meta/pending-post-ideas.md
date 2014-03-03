@@ -27,3 +27,4 @@ As in the term with cycling, falling in behind someone to take advantage of them
   * There’s no Work/Life balance in a notebook, just your days on pages
 * Get bored with technology, get excited about what it can do
 * Finding things you love lets you stop searching, free up that cognitive space
+* The care of craftsmanship in your own health
