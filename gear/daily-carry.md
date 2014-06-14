@@ -6,14 +6,14 @@ template: reference
 Pocket Dump
 ===========
 
-![Daily Carry Stack](http://f.cl.ly/items/2r3u2y0U1e2R322i0t22/daily-carry.jpg)
-![Daily Carry Knoll](http://f.cl.ly/items/191u3b2i2A3V001e3p0w/daily-carry-knoll.jpg)
+![Daily Carry Knoll](http://f.cl.ly/items/273f2k0y0M001J3D1U0p/Photo%202014-06-14,%2012%2039%2038.jpg)
 
 * iPhone 5 - Black 32GB Verizon
-* Pocket notebook - still experimenting between Field Notes and Doane grid+lines
+* Pocket notebook - [Doane grid+lines](http://doanepaper.bigcartel.com/product/black-utility-notebook-pack-of-3)
 * [Zebra Sarasa 0.4, Black ](http://www.jetpens.com/Zebra-Sarasa-Push-Clip-Gel-Ink-Pen-0.4-mm-Black/pd/797)
 * Keys (two + fob on a small ring with a paracord/heat-shrink tube "pull")
-* [Saddleback Leather Small ID Wallet](http://saddlebackleather.com/Classic-Wallet-ID)
+* [Saddleback Leather Sleeve Wallet](http://www.saddlebackleather.com/walletsleeve?sc=8&category=87) + [Money Clip](http://amzn.com/B00AIY3N02?)
+* [Stowa Flieger Watch](http://www.stowa.de/lshop,showdetail,140276435119469,en,1402764360-19655,flieger,fliegerohnelogo,1,Tshowrub--flieger,.htm)
 * [Benchmade Mini-Griptilian](http://amazon.com/dp/B000NZRYS8)
 
 
