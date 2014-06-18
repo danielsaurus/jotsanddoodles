@@ -28,3 +28,4 @@ As in the term with cycling, falling in behind someone to take advantage of them
 * Get bored with technology, get excited about what it can do
 * Finding things you love lets you stop searching, free up that cognitive space
 * The care of craftsmanship in your own health
+* Transition from nvALT to MediaWiki for reference archives
