@@ -30,6 +30,7 @@ It helps me get through life.
 
   * [My Philosophy on Gear](http://hackmake.org/reference/gear/)
   * [Daily Carry](http://hackmake.org/reference/gear/daily-carry)
+  * [Wish List](http://hackmake.org/reference/gear/wish-list)
 
 ## GTD Resources ##
 
