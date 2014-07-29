@@ -2,7 +2,7 @@ Wish List
 =========
 template: reference
 
-
+_See also: [Amazon Wish List](http://www.amazon.com/gp/registry/wishlist/ref=nav_wish_list)_
 Creative
 --------
 
