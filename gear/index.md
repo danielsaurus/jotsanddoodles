@@ -19,6 +19,8 @@ Sections
 ========
 
 * [**Daily Carry**](http://hackmake.org/reference/gear/daily-carry) -- What's with me every day
+* [**Wish List**](http://hackmake.org/reference/gear/daily-carry) -- What I want
+
 <!-- 
 * [**Outerwear**](http://hackmake.org/reference/gear/outwear) -- The gear that protects me from the elements
 * [**Packing and Travel**](http://hackmake.org/reference/gear/packing-travel) -- What comes along on adventures
